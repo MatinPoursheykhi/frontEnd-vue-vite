@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "01f211cf-b700-463f-8710-e6f951a81978",
+      "firstName": "tylerhhhhhhhhhhhh",
+      "lastName": "jj",
+      "age": 22,
+      "mobile": "0974526169",
+      "email": "",
+      "createdAt": "2023-08-17T23:56:35.031Z",
+      "updatedAt": "2023-08-17T23:56:35.031Z"
+    },
+    {
+      "id": "122ab3a7-0c99-4d9a-bdd6-3958ca08d471",
+      "firstName": "jkadsh",
+      "lastName": "jksh",
+      "age": 13,
+      "mobile": "0973298",
+      "email": "",
+      "createdAt": "2023-08-16T15:19:08.139Z",
+      "updatedAt": "2023-08-16T15:19:17.687Z"
+    },
+    {
+      "firstName": "kaljs",
+      "lastName": "jksdn",
+      "age": 7,
+      "mobile": "09238420",
+      "email": "",
+      "id": "RCYH29I"
+    }
+  ]
+}
