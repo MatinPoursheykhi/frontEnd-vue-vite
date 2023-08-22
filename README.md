@@ -6,7 +6,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-This is a simple frontEnd project based on VUE accompanied by normal css. Also its dataBase can be on two ways,
+This is a simple frontEnd project based on VUE accompanied by normal css.
+in addition, this project has been coded to use rest Api and implement CRUD operations.  Also its dataBase can be on two ways,
 1.first way is using json-server {https://www.npmjs.com/package/json-server}, which is set on a specific port.
 2.second way is backEnd,you can also use your local dataBase which must be sqlServer or mysql,
 you can find this mentioned backEnd on my gitHub => (MatinPoursheykhi/backEnd-nodeJs-sequelize)
